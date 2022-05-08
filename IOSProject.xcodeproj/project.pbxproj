@@ -24,10 +24,11 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		6C6D315B28237A5B0094A147 /* IOSProject */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = IOSProject; sourceTree = BUILT_PRODUCTS_DIR; };
-		6C6D315E28237A5B0094A147 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		6C6D315B28237A5B0094A147 /* c.jpeg */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = c.jpeg; path = IOSProject; sourceTree = BUILT_PRODUCTS_DIR; };
+		6C6D315E28237A5B0094A147 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		6C6D316528237F960094A147 /* Person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
 		6C6D316628237F960094A147 /* Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
+		6CED38D62827776500A856E8 /* 龙猫.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "龙猫.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +53,7 @@
 		6C6D315C28237A5B0094A147 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6C6D315B28237A5B0094A147 /* IOSProject */,
+				6C6D315B28237A5B0094A147 /* c.jpeg */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -60,6 +61,7 @@
 		6C6D315D28237A5B0094A147 /* IOSProject */ = {
 			isa = PBXGroup;
 			children = (
+				6CED38D62827776500A856E8 /* 龙猫.jpeg */,
 				6C6D315E28237A5B0094A147 /* main.m */,
 				6C6D316528237F960094A147 /* Person.h */,
 				6C6D316628237F960094A147 /* Person.m */,
@@ -84,7 +86,7 @@
 			);
 			name = IOSProject;
 			productName = IOSProject;
-			productReference = 6C6D315B28237A5B0094A147 /* IOSProject */;
+			productReference = 6C6D315B28237A5B0094A147 /* c.jpeg */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -110,7 +112,7 @@
 				Base,
 			);
 			mainGroup = 6C6D315228237A5B0094A147;
-			productRefGroup = 6C6D315C28237A5B0094A147 /* Products */;
+			productRefGroup = 6C6D315228237A5B0094A147;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
